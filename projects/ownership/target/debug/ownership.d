@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/ownership/target/debug/ownership: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/ownership/src/main.rs

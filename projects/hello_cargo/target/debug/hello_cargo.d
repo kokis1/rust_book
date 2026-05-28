@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/hello_cargo/target/debug/hello_cargo: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/hello_cargo/src/main.rs

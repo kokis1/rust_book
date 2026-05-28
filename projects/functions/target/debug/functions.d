@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/functions/target/debug/functions: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/functions/src/main.rs
