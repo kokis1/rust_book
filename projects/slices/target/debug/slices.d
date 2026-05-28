@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/slices/target/debug/slices: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/slices/src/main.rs
