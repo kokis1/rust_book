@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_5_structs/methods/target/debug/methods: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_5_structs/methods/src/main.rs
