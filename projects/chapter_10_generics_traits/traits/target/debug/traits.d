@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_10_generics_traits/traits/target/debug/traits: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_10_generics_traits/traits/src/main.rs
