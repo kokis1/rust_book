@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_8_common_collections/vectors/target/debug/vectors: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_8_common_collections/vectors/src/main.rs

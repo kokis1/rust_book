@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_8_common_collections/exercises/target/debug/exercises: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_8_common_collections/exercises/src/main.rs
