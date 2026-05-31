@@ -154,7 +154,7 @@ fn task_3() {
                 }
             },
             Instruction::List{by_department: false} => {
-                let mut employee_vector = Vec::from_iter(employee_hashmap.values().cloned());
+                let mut employee_vector: Vec<String> = Vec::from_iter(employee_hashmap.values().cloned()).concat();
                 employee_vector.sort();
                 println!("{employee_vector:#?}");
             },
