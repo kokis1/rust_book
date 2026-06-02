@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_12_minigrep/minigrep/target/debug/minigrep: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_12_minigrep/minigrep/src/lib.rs /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_12_minigrep/minigrep/src/main.rs
