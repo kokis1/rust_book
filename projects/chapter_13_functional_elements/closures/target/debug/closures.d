@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_13_functional_elements/closures/target/debug/closures: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_13_functional_elements/closures/src/main.rs
