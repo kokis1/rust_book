@@ -1,0 +1,17 @@
+
+# before releasing and publishing to cargo, some things need to be included here
+[package]
+
+# all cargo crates have to have a unique name
+name = "example_crate"
+version = "0.1.0"
+edition = "2026"
+
+# the license also needs to be specified
+license = "MIT" # for open use (example)
+
+description = "A fun example package that explains how I should publish crates to cargo"
+
+
+
+[dependencies]

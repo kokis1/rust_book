@@ -1,0 +1,5 @@
+
+# this is needed for cargo to help resolve the dependency structure
+[workspace]
+resolver = "3"
+members = ["add_one", "add_two","adder"]

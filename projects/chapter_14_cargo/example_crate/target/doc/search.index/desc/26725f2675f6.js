@@ -1,0 +1,1 @@
+rd_("CmCombines two primary colours in equal amounts to create a \xe2\x80\xa60AoReturns the argument unchanged.000BaCalls <code>U::from(self)</code>.000BnThe primary colours according to the RYB model0BfThis is a simple (example) Art LibraryC`The secondary colours according to the RYB model")

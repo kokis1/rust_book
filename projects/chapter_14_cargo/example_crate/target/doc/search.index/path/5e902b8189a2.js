@@ -1,0 +1,1 @@
+rd_("f[1,\"\"]A`[10,\"core::any\"]f[0,\"\"]Ad[10,\"core::convert\"]03Ac[2,\"example_crate\"]0Ac[10,\"core::borrow\"]Ba[6,\"core::result\",\"core::result\"]Ak[5,\"core::any\",\"core::any\"]4427Ca[6,\"example_crate::kinds\",\"example_crate::kinds\"]f[3,\"\"]1")

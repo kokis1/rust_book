@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_14_cargo/workspace_example/target/debug/libadd_one.rlib: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_14_cargo/workspace_example/add_one/src/lib.rs
