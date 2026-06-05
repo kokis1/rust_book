@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_15_smart_pointers/using_the_drop_trait/target/debug/using_the_drop_trait: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_15_smart_pointers/using_the_drop_trait/src/main.rs
