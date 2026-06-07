@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_16_fearless_concurrency/message_passing/target/debug/message_passing: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_16_fearless_concurrency/message_passing/src/main.rs
