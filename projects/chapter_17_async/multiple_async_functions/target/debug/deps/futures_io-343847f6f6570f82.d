@@ -1,0 +1,7 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_17_async/multiple_async_functions/target/debug/deps/futures_io-343847f6f6570f82.d: /Users/reubenstannah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-io-0.3.32/src/lib.rs
+
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_17_async/multiple_async_functions/target/debug/deps/libfutures_io-343847f6f6570f82.rlib: /Users/reubenstannah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-io-0.3.32/src/lib.rs
+
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_17_async/multiple_async_functions/target/debug/deps/libfutures_io-343847f6f6570f82.rmeta: /Users/reubenstannah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-io-0.3.32/src/lib.rs
+
+/Users/reubenstannah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-io-0.3.32/src/lib.rs:
