@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_18_OOP_featues/state_pattern_trad/target/debug/libstate_pattern_trad.rlib: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_18_OOP_featues/state_pattern_trad/src/lib.rs
