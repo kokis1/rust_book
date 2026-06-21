@@ -1,4 +1,8 @@
 pub mod blog {
+
+   // this version makes use of the type system to simplify the state pattern
+   // however, this isn't a pure OO implementation, nor is it completely the state pattern
+   // because each state is it's own type, not an attribute of a parent type
    pub struct Post {
       content: String,
    }
