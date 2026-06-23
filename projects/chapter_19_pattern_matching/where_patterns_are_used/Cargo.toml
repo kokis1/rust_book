@@ -1,0 +1,6 @@
+[package]
+name = "where_patterns_are_used"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
