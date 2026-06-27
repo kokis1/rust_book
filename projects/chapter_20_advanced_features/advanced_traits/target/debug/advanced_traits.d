@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/advanced_traits/target/debug/advanced_traits: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/advanced_traits/src/main.rs
