@@ -1,0 +1,1 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/advanced_fns_closures/target/debug/advanced_fns_closures: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/advanced_fns_closures/src/main.rs
