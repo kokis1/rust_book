@@ -1,0 +1,5 @@
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/macros/pancake/target/debug/deps/hello_macro_derive-3b41cd90f2b100c3.d: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/macros/hello_macro/hello_macro_derive/src/lib.rs
+
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/macros/pancake/target/debug/deps/libhello_macro_derive-3b41cd90f2b100c3.dylib: /Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/macros/hello_macro/hello_macro_derive/src/lib.rs
+
+/Users/reubenstannah/Coding/personal_projects/rust_projects/rust_book/projects/chapter_20_advanced_features/macros/hello_macro/hello_macro_derive/src/lib.rs:
